@@ -1,5 +1,5 @@
 # SpicciBot
-<<<<<<< HEAD
+
 Un bot per gestite le spese
 =======
 
@@ -22,5 +22,3 @@ SpicciBot è un bot Telegram per la gestione delle spese e delle entrate persona
    ```bash
    git clone https://github.com/Andryone/SpicciBot.git
    cd spiccibot
->>>>>>> 38c5996 (Primo commit)
-# SpicciBot
